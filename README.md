@@ -2,8 +2,8 @@
 
 Archivos de acompañamiento del [Día 1 del #DataSchool](https://bitson.group/slides/dataschool-py1.html).
 
-Fecha: 28 de abril de 2020
-Horario: 10:00 a 12:00 (UTC-3)
+* Fecha: 28 de abril de 2020
+* Horario: 10:00 a 12:00 (UTC-3)
 
 ## Instrucciones
 
