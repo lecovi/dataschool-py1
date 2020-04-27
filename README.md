@@ -14,5 +14,6 @@ o en la nube con [Google Colab](https://colab.research.google.com) (o similar).
 2. [primeros_pasos.ipynb](primeros_pasos.ipynb)
 3. [sintaxis_basica](sintaxis_basica.ipynb)
 4. [tipos_de_datos.ipynb](tipos_de_datos.ipynb)
+5. [listas.ipynb](listas.ipynb)
 
 * [Siguiente día](https://github.com/lecovi/dataschool-py2)
